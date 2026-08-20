@@ -3,3 +3,4 @@
 
 # SQLite databases
 *.db
+.gitignore
